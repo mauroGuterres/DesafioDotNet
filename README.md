@@ -1,13 +1,13 @@
 # Instruções
-Clonar o projeto em sua máquina local.
-Certificar-se de que há uma instância de sql server instalada na máquina.
-Ir até a instância via Sql Server Management ou outro de sua preferência e criar o banco "Khipo".
-Ir até a pasta "Models" no projeto e rodar os scripts "create-procedure-getAllProduto.sql" e "create-procedure-getProdutoById.sql" para criar as procedured de get.
-Ir até o web.config do projeto, alterar a connectionString para apontar para a sua instância.
-Abrir o arquivo KhipoEntities.edmx e a partir dele gerar o script para a base de dados.
-Rodar o script.
-Rodar o projeto.
-Testar os endpoints via swagger.
+1. Clonar o projeto em sua máquina local.
+2. Certificar-se de que há uma instância de sql server instalada na máquina.
+3 .Ir até a instância via Sql Server Management ou outro de sua preferência e criar o banco "Khipo".
+4 .Ir até a pasta "Models" no projeto e rodar os scripts "create-procedure-getAllProduto.sql" e "create-procedure-getProdutoById.sql" para criar as procedured de get.
+5. Ir até o web.config do projeto, alterar a connectionString para apontar para a sua instância.
+6. Abrir o arquivo KhipoEntities.edmx e a partir dele gerar o script para a base de dados.
+7. Rodar o script.
+8 .Rodar o projeto.
+9 .Testar os endpoints via swagger.
 
 
 
