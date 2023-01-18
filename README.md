@@ -1,4 +1,4 @@
-#Instruções
+# Instruções
 Clonar o projeto em sua máquina local.
 Certificar-se de que há uma instância de sql server instalada na máquina.
 Ir até a instância via Sql Server Management ou outro de sua preferência e criar o banco "Khipo".
